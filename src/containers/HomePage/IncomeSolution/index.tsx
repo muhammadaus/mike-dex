@@ -40,6 +40,82 @@ const IncomeSolution = () => {
         alt="line"
         style={{
           position: "absolute",
+        }}
+        className="hidden xl:block"
+        priority
+      />
+      <Image
+        src="/images/line-star.svg"
+        width={772}
+        height={123}
+        alt="line"
+        style={{
+          position: "absolute",
+          top: "10%",
+          right: "10%",
+        }}
+        className="hidden xl:block"
+        priority
+      />
+      <Image
+        src="/images/line-star.svg"
+        width={772}
+        height={123}
+        alt="line"
+        style={{
+          position: "absolute",
+          top: "-5%",
+          left: "15%",
+        }}
+        className="hidden xl:block"
+        priority
+      />
+      <Image
+        src="/images/line-star.svg"
+        width={772}
+        height={123}
+        alt="line"
+        style={{
+          position: "absolute",
+          top: "30%",
+          left: "15%",
+        }}
+        className="hidden xl:block"
+        priority
+      />
+      <Image
+        src="/images/line-star.svg"
+        width={772}
+        height={123}
+        alt="line"
+        style={{
+          position: "absolute",
+          top: "30%",
+          left: "5%",
+        }}
+        className="hidden xl:block"
+        priority
+      />
+      <Image
+        src="/images/line-star.svg"
+        width={772}
+        height={123}
+        alt="line"
+        style={{
+          position: "absolute",
+          bottom: "1%",
+          left: "2%",
+        }}
+        className="hidden xl:block"
+        priority
+      />
+      <Image
+        src="/images/line-star.svg"
+        width={772}
+        height={123}
+        alt="line"
+        style={{
+          position: "absolute",
           bottom: "9%",
           left: "10%",
         }}
